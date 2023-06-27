@@ -1,0 +1,11 @@
+autopy==4.0.0
+cvzone==1.5.6
+ibm_cloud_sdk_core==3.16.5
+keyboard==0.13.5
+mediapipe==0.10.0
+numpy==1.24.3
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+PyAutoGUI==0.9.54
+pynput==1.7.6
+SpeechRecognition==3.10.0
